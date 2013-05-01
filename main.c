@@ -4,5 +4,5 @@ main()
 
 {
     printf("hello Sailing.\n");
-    printf("version 0.01.\n");
+    printf("version 0.02.\n");
 }

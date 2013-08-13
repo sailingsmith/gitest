@@ -4,6 +4,6 @@ main()
 
 {
     printf("hello Sailing.\n");
-    printf("version 0.06.\n");
+    printf("version 0.07.\n");
 }
 
